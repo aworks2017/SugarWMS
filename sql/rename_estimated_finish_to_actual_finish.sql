@@ -1,0 +1,1 @@
+ALTER TABLE jobs CHANGE estimated_finish actual_finish datetime;/*Please execute this query before running repair & rebuild otherwise sugar will create new field and data can be lossed.*/

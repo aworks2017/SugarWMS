@@ -1,0 +1,16 @@
+#list td  {
+		background-color: white !important;
+		border-top: 1px solid #4E8CCF !important;
+		border-bottom: 1px solid #4E8CCF !important;;
+	}
+#reassign   {
+		width:214px;
+	}
+.parentTable  {
+	font-size: 1em;
+	margin-top: 20px ;
+	}
+.parentTable td {
+	font-size: 1em;
+	padding: 3px 7px 2px 7px;
+	}

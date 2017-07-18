@@ -1,0 +1,20 @@
+<?php
+$dictionary['User']['fields']['current_job_id'] = array(
+    'required' => false,
+    'name' => 'current_job_id',
+    'vname' => 'LBL_CURRENT_JOB_ID',
+    'type' => 'varchar',
+    'massupdate' => 0,
+    'no_default' => false,
+    'comments' => '',
+    'help' => '',
+    'importable' => 'true',
+    'duplicate_merge' => 'disabled',
+    'duplicate_merge_dom_value' => '0',
+    'audited' => false,
+    'reportable' => true,
+    'unified_search' => false,
+    'merge_filter' => 'disabled',
+    'len' => '36',
+    'size' => '36',
+);
