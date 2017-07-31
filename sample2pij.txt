@@ -5,3 +5,4 @@ newline 4
 newline 5
 newline 6.1.1
 newlline 6.2.2
+newline 7.0.0
