@@ -1,12 +1,1 @@
-test line 123
-new line for sample 2
-new line 3
-newline 4
-newline 5
-newline 6.1.1
-newlline 6.2.2
-newline 7.0.0
-Joe just joined
-PS just joined 
-Harry Potter just joined
-Joe joined again
+Sample user 1 joined
