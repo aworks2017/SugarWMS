@@ -1,1 +1,2 @@
 Sample user 1 joined
+Sample 2 user joined
