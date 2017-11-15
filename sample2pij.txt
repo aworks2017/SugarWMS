@@ -2,3 +2,4 @@ Sample user 1 joined
 Sample code line - 11/12/2017 - 07:14 CT
 Bug fixed -  11/12/2017 - 07:23 CT
 Bug Fixed 2 - 11/12/2017 - 07:49 CT
+Bug Fixed 3 - 11/14/2017 - 7:37 CT
