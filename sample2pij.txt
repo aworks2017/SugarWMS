@@ -6,4 +6,4 @@ Bug Fixed 3 - 11/14/2017 - 7:37 CT
 Bug Fixed 4 - 11/14/2017 - 8:37 CT
 Bug Fixed 5 - 11/15/2017 - 8:37 CT
 Bug Fixed 6 - 11/15/2017 - 8:37 CT
-Bug Fixed 7 - 11/15/2017 - 8:37 CT
+Bug Fixed 7 - 11/15/2017 - 9:32 CT
