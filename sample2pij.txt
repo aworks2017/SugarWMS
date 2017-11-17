@@ -9,3 +9,4 @@ Bug Fixed 6 - 11/15/2017 - 8:37 CT
 Bug Fixed 7 - 11/15/2017 - 9:32 CT
 Bug Fixed 8 - 11/15/2017 - 9:46 CT
 New Feature added - 11/16/2017 - 9:28 CT
+Bug fixed 9 - 11/16/2017 - 9:37 CT
